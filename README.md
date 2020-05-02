@@ -1,0 +1,1 @@
+# LyndaCoursesDownloader.UpdateManager.Prerelease
